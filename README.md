@@ -1,8 +1,11 @@
 # Temperature Monitor
 
 Have you ever wished for an efficiently presented history of all of your fevers?
+
 Have you ever wanted to see it respresented as a local CSV, in a Firebase DB, and visualize it as a plot?
-Have you ever wanted to summarize this data using an easy-to-use web API??
+
+Have you ever wanted to summarize this data using an easy-to-use web API?
+
 And most importantly, have you ever had a spare Raspberry Pi and a DHT11 sensor lying around?
 
 If you answered yes to all the previous questions, then this repo will fulfill all of your fever history dreams!
